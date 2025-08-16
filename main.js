@@ -18,7 +18,7 @@ let nav_bar = document.getElementById('nav_bar')
 
       <div class="container">
             <div class="top_nav">
-                <a href="#"><img src="img/logo nav 1.png" alt=""></a>
+                <a href="#"><img src="logo nav 1.png" alt=""></a>
 
                 <div class="links">
                     <ul>
@@ -82,7 +82,7 @@ foo_main.innerHTML = `
 
  <div class="container">
             <div class="right">
-                <img src="img/footer logo.png" alt="">
+                <img src="footer logo.png" alt="">
 
                 <div class="hello">
                     <p class="foo">Data Cell</p>
